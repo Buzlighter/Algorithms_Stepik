@@ -20,4 +20,4 @@ public class Main {
         remainder = (int) (n % T);
         System.out.println(arr[remainder]);
     }
-   }
+}

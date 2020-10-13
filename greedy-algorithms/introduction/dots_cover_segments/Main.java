@@ -1,5 +1,3 @@
-package com.Stepik;
-
 import java.util.*;
 
 public  class Main {
